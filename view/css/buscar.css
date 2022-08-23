@@ -1,0 +1,59 @@
+.content{
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    width: 600px;
+}
+.col-header{
+    background-color: rgb(228, 228, 228);
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    padding: 5px 10px;
+}
+
+.col-celula{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    padding: 5px 10px;
+}
+
+.content-global {
+    position: relative;
+    top: 10vh;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    max-width: max-content;
+    margin: auto;
+}
+#titulo {
+    width: 100%;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+#content-pesquisa {
+    border: 1px solid rgba(0, 0, 0, 0.13);
+    padding: 20px 20px;
+    width: 50%;
+    text-align: right;
+    border-radius: 13px;
+    position: relative;
+    margin: auto;
+    top: 5vh;
+}
+.input-id {
+    border: none;
+    padding: none;
+    outline: none;
+    cursor: default;
+}
+.botao-registro {
+    outline: none;
+    background: none;
+    border: none;
+    color: blue;
+}
+#nenhum-registro {
+    max-width: max-content;
+    position: relative;
+    margin: auto;
+    top: 20vh;
+}

@@ -1,0 +1,16 @@
+#idPessoa{
+    display: none;
+}
+#content-global {
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+    max-width: max-content;
+    margin: auto;
+    position: relative;
+    margin-top: 15vh;
+}
+.campo {
+    width: 300px;
+    margin-bottom: 10px;
+}

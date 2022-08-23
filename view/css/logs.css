@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    padding: 20px 0px;
+}
+.content-logs{
+    max-width: max-content;
+    background-color: rgb(238, 238, 238);
+    padding: 10px 20px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.log-item{
+    background: none;
+    border: none;
+    color: black;
+}
+.log-item:hover{
+    color: red;
+}
+#content-pesquisa{
+    width: 60%;
+    margin: auto;
+    border: 1px solid rgba(0, 0, 0, 0.116);
+    padding: 20px 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
